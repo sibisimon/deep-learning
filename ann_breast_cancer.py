@@ -1,5 +1,5 @@
 """
-Author: Sibi Simon - 18201381
+Author: Sibi Simon
 Date: 25-11-2018
 """
 
